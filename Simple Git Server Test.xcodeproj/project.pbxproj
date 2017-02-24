@@ -93,6 +93,7 @@
 				TargetAttributes = {
 					C925CFE91E5FB4AA00EAD092 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 9MMRP6227J;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -216,6 +217,8 @@
 		C925CFF21E5FB4AB00EAD092 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				DEVELOPMENT_TEAM = 9MMRP6227J;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -223,6 +226,8 @@
 		C925CFF31E5FB4AB00EAD092 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				DEVELOPMENT_TEAM = 9MMRP6227J;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
